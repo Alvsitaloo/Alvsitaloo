@@ -1,5 +1,5 @@
 ## Hello Word, eu sou Italo Alves
-- 💻 Hoje trabalho com front-end
+- 💻 Desenvolvedor Front-End
 - 👨‍💻 Cursando Engenharia de Software
 - 📱 @alvsitalo
 
